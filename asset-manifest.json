@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EDENI-JOEL.github.io/WEATHERAPP-BY-EDENI/static/css/main.27751c5a.css",
+    "main.js": "/EDENI-JOEL.github.io/WEATHERAPP-BY-EDENI/static/js/main.099f74ea.js",
+    "index.html": "/EDENI-JOEL.github.io/WEATHERAPP-BY-EDENI/index.html",
+    "main.27751c5a.css.map": "/EDENI-JOEL.github.io/WEATHERAPP-BY-EDENI/static/css/main.27751c5a.css.map",
+    "main.099f74ea.js.map": "/EDENI-JOEL.github.io/WEATHERAPP-BY-EDENI/static/js/main.099f74ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27751c5a.css",
+    "static/js/main.099f74ea.js"
+  ]
+}
